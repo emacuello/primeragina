@@ -1,0 +1,53 @@
+.navbar {
+    --bs-navbar-padding-x: 1;
+}
+
+.container-fluid {
+    background-color: #212529;
+}
+
+.card { 
+    width: 12rem;
+    border: 0;
+    margin-top: 20px;
+}
+
+.radio {
+    border-radius: 150px;
+}
+
+.pfolio {
+    border-top: 100px;
+}
+
+.margenarriba {
+    margin-top: 100px;
+    color: white;
+}
+
+.medidas {
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+}
+
+.relleno {
+    padding: 100px;
+}
+
+.bkcolor {
+    background-color: #212529;
+}
+
+.arribamargen {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.posicion {
+    padding: 100px 100px 100px 100px;
+}
+
+.footer {
+    padding-bottom: 2px;
+}
